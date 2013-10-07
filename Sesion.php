@@ -13,6 +13,7 @@
    <input type="password" name="contrasenia">
    <br/>
    <input type="submit" name="entrar" value="Entrar"/>
+  </form>
    
    <?php
    $codigo=$_POST['codigo'];
@@ -37,6 +38,5 @@
       echo "<h4>Favor de llenar los espacios</h4>";
     }
    ?>
-  </form>
  </body>
 </html>
