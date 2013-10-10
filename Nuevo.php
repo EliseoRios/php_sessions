@@ -21,5 +21,4 @@
    <input type="submit" name="enviar" value="Enviar"/>
    </form>
  </body>
-<!--form method="post" action "archivo_abrir.php"-->
 </html>

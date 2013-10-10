@@ -30,5 +30,4 @@
   ?>
   </form>
   </body>
-<!--form method="post" action "archivo_abrir.php"-->
 </html>

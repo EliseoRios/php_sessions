@@ -1,6 +1,6 @@
 <html>
  <head>
-  <title>Directorio</title>
+  <title>Directorioo</title>
   <link href="CSSNuevo.css" rel="stylesheet" type="text/css"/>
  </head>
  
@@ -9,16 +9,15 @@
   <button>
   <form>
    <?php
-    unset($_POST['codigo']);
+    /*unset($_POST['codigo']);
     unset($_POST['contrasenia']);
-	
-	
+	*/
    ?>
    </form>
    <img src="apagar.png" width="300" height="70"/>
   </button>
  </a>
-  <br/>
+ <br/>
   
   <center>
    <a href="Nuevo.php">
@@ -28,5 +27,4 @@
    </a>
   </center>
  </body>
-<!--form method="post" action "archivo_abrir.php"-->
 </html>
